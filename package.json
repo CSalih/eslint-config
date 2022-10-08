@@ -7,7 +7,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "release": "git checkout main && git pull && lerna version --force-publish --create-release"
+    "release": "git checkout main && git pull && lerna version --force-publish"
   },
   "workspaces": [
     "packages/*"
