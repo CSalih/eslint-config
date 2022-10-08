@@ -2,14 +2,12 @@
   "useNx": true,
   "useWorkspaces": true,
   "npmClient": "yarn",
-  "packages": [
-    "packages/*"
-  ],
+  "packages": ["packages/*"],
   "command": {
     "version": {
       "exact": true,
       "message": "chore: release version %s"
     }
   },
-  "version": "0.0.0"
+  "version": "0.1.0"
 }
