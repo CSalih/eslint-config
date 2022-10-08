@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-base",
+  "name": "@csalih/eslint-config-base",
   "version": "0.1.0",
   "description": "Default configuration for eslint",
   "license": "MIT",
