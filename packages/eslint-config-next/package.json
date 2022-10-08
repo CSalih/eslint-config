@@ -1,0 +1,27 @@
+{
+  "name": "@csalih/eslint-config-next",
+  "description": "ESLint configuration for Next.js.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/CSalih/eslint-config#readme",
+  "bugs": {
+    "url": "https://github.com/CSalih/eslint-config/issues"
+  },
+  "repository": {
+    "url": "CSalih/eslint-config",
+    "directory": "packages/eslint-config-next"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "eslint-config-next": "^12.3.1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8"
+  },
+  "optionalDependencies": {
+    "typescript": ">= 4"
+  }
+}
