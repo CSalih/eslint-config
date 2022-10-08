@@ -35,7 +35,9 @@
     "eslint": "^8.25.0"
   },
   "peerDependencies": {
-    "eslint": ">= 3",
+    "eslint": ">= 3"
+  },
+  "optionalDependencies": {
     "typescript": ">= 4"
   }
 }
